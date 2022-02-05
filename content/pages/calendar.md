@@ -10,24 +10,257 @@ Instructors
 NPS = Prof. Nam P. Suh  
 TL = Dr. Taesik Lee
 
-| Lec # | Topics | Instructors |
-| --- | --- | --- |
-| 1-3 | Introduction to Axiomatic Design | NPS |
-| 4 | Information Content and Robustness | TL |
-| 5 | Information Content (cont.)  {{< br >}}  {{< br >}}Project Discussion | TL |
-| 6-7 | Multi-FR Design | NPS |
-| 8-9 | Information Content (cont.) | TL |
-| 10 | Exam 1 |  |
-| 11-12 | Design of Systems | NPS |
-| 13 | Guest Lecture | Dr. Sunghee Do |
-| 14 | Design of Manufacturing Systems | TL |
-| 15 | Axiomatic Design of Manufacturing Systems  {{< br >}}  {{< br >}}Case Study - Complex System Design (NASA / Project) | NPS |
-| 16 | Complexity I  {{< br >}}  {{< br >}}Project Discussion | NPS |
-| 17-18 | Complexity II | NPS |
-| 19 | Complexity Review | TL |
-| 20 | Reduction of Complexity with Geometric Functional Periodicity | NPS |
-| 21 | Reduction of Complexity in Materials through Functional Periodicity  {{< br >}}  {{< br >}}Visit to Tribotek, Inc. | NPS |
-| 22 | Complexity of Socio-Economic Political Systems: Application of Functional Periodicity | NPS |
-| 23 | Cost Engineering in Axiomatic Design | TL |
-| 24 | Exam 2 |  |
-| 25 | Project Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Instructors
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Axiomatic Design
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Information Content and Robustness
+{{< tdclose >}}
+{{< tdopen >}}
+TL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Information Content (cont.)  
+  
+Project Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+TL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Multi-FR Design
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Information Content (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+TL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Systems
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Sunghee Do
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Manufacturing Systems
+{{< tdclose >}}
+{{< tdopen >}}
+TL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Axiomatic Design of Manufacturing Systems  
+  
+Case Study - Complex System Design (NASA / Project)
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity I  
+  
+Project Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-18
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity II
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity Review
+{{< tdclose >}}
+{{< tdopen >}}
+TL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Reduction of Complexity with Geometric Functional Periodicity
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Reduction of Complexity in Materials through Functional Periodicity  
+  
+Visit to Tribotek, Inc.
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity of Socio-Economic Political Systems: Application of Functional Periodicity
+{{< tdclose >}}
+{{< tdopen >}}
+NPS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Cost Engineering in Axiomatic Design
+{{< tdclose >}}
+{{< tdopen >}}
+TL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
