@@ -54,7 +54,7 @@ Information Content (cont.)
 Project Discussion
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec216))
+([PDF]({{< baseurl >}}/resources/lec216))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +220,7 @@ Complexity of Socio-Economic Political Systems: Application of Functional Period
 Cost Engineering in Axiomatic Design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/lec502))
+([PDF - 1.6 MB]({{< baseurl >}}/resources/lec502))
 {{< tdclose >}}
 
 {{< trclose >}}
