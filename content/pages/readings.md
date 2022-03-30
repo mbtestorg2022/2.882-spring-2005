@@ -10,27 +10,260 @@ The following readings in the textbooks are assigned for particular class sessio
 
 \[CT\] ———. _Complexity: Theory and Applications_. New York, NY: Oxford University Press, 2005. ISBN: 9780195178760.
 
-| Lec # | Topics | readings |
-| --- | --- | --- |
-| 1-3 | Introduction to Axiomatic Design | AD, Chapter 1 |
-| 4 | Information Content and Robustness | AD, Chapter 2 |
-| 5 | Information Content (cont.)  {{< br >}}  {{< br >}}Project Discussion |  |
-| 6-7 | Multi-FR Design | AD, Chapter 3 |
-| 8-9 | Information Content (cont.) |  |
-| 10 | Exam 1 |  |
-| 11-12 | Design of Systems | AD, Chapter 4 |
-| 13 | Guest Lecture | AD, Chapter 5 |
-| 14 | Design of Manufacturing Systems | AD, Chapter 6 |
-| 15 | Axiomatic Design of Manufacturing Systems  {{< br >}}  {{< br >}}Case Study - Complex System Design (NASA / Project) | AD, Chapter 6 |
-| 16 | Complexity I  {{< br >}}  {{< br >}}Project Discussion | CT, Chapter 1 |
-| 17-18 | Complexity II | CT, Chapter 3 |
-| 19 | Complexity Review | CT, Chapters 4, 5, and 6 |
-| 20 | Reduction of Complexity with Geometric Functional Periodicity | CT, Chapter 7 |
-| 21 | Reduction of Complexity in Materials through Functional Periodicity  {{< br >}}  {{< br >}}Visit to Tribotek, Inc. | CT, Chapter 8 |
-| 22 | Complexity of Socio-Economic Political Systems: Application of Functional Periodicity | CT, Chapter 10 |
-| 23 | Cost Engineering in Axiomatic Design |  |
-| 24 | Exam 2 |  |
-| 25 | Project Presentations |  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Axiomatic Design
+{{< tdclose >}}
+{{< tdopen >}}
+AD, Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Information Content and Robustness
+{{< tdclose >}}
+{{< tdopen >}}
+AD, Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Information Content (cont.)  
+  
+Project Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Multi-FR Design
+{{< tdclose >}}
+{{< tdopen >}}
+AD, Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Information Content (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Systems
+{{< tdclose >}}
+{{< tdopen >}}
+AD, Chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+AD, Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Manufacturing Systems
+{{< tdclose >}}
+{{< tdopen >}}
+AD, Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Axiomatic Design of Manufacturing Systems  
+  
+Case Study - Complex System Design (NASA / Project)
+{{< tdclose >}}
+{{< tdopen >}}
+AD, Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity I  
+  
+Project Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+CT, Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-18
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity II
+{{< tdclose >}}
+{{< tdopen >}}
+CT, Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity Review
+{{< tdclose >}}
+{{< tdopen >}}
+CT, Chapters 4, 5, and 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Reduction of Complexity with Geometric Functional Periodicity
+{{< tdclose >}}
+{{< tdopen >}}
+CT, Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Reduction of Complexity in Materials through Functional Periodicity  
+  
+Visit to Tribotek, Inc.
+{{< tdclose >}}
+{{< tdopen >}}
+CT, Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity of Socio-Economic Political Systems: Application of Functional Periodicity
+{{< tdclose >}}
+{{< tdopen >}}
+CT, Chapter 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Cost Engineering in Axiomatic Design
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
